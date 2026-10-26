@@ -1,32 +1,83 @@
 
+<!-- Dark Navy + Electric Blue | GitHub Profile README -->
+
+<div align="center">
+
 # Hey, I'm Moulish T 👋
 
-### CSE Student | Aspiring AI Builder | Full-Stack Developer
+### `CSE STUDENT` · `AI & SOFTWARE DEVELOPMENT`
 
-I'm a Computer Science Engineering student exploring how **AI, software development, and automation** can solve real-world problems.
+Exploring AI, full-stack development, and automation —  
+learning by experimenting and building.
 
-- 🤖 Exploring AI-powered applications and automation
-- 💻 Learning full-stack development and building practical projects
-- 🧠 Strengthening problem-solving and software development skills
-- 🚀 Interested in entrepreneurship and building useful products
+<br/>
 
-### 🛠️ Technologies I'm Exploring
+<div align="center">
 
-**Languages:** Java, C++, Python  
-**Web Development:** HTML, CSS, JavaScript  
-**Tools:** Git, GitHub, VS Code  
-**Interests:** AI Tools, Workflow Automation, Full-Stack Development
+<a href="https://www.linkedin.com/in/moulish-t-77a9b3397/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/moulish077">
+  <img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-### 🎯 Current Focus
 
-- Building practical projects to improve my development skills
-- Learning how to integrate AI into useful applications
-- Developing a strong foundation for internships and placements
 
-### 🤝 Let's Connect
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/moulish-t-77a9b3397/?isSelfProfile=true)
+</div>
 
 ---
 
-*Learning by building. Improving one project at a time.*
+## `01` — About Me
+
+- 🎓 Computer Science Engineering student
+- 🤖 Interested in AI tools and automation
+- 💻 Exploring full-stack development
+- 🚀 Curious about technology, product building, and entrepreneurship
+
+---
+
+## `02` — Technologies & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+</div>
+
+---
+
+## `03` — Areas of Interest
+
+<div align="center">
+
+`Artificial Intelligence` · `AI Automation` · `Full-Stack Development` · `Problem Solving` · `Entrepreneurship`
+
+</div>
+
+---
+
+<div align="center">
+
+### <span style="color:#58A6FF">Learning. Exploring. Improving.</span>
+
+*Building my skills one step at a time.*
+
+</div>
