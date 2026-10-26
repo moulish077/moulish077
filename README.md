@@ -25,7 +25,7 @@ I'm a Computer Science Engineering student exploring how **AI, software developm
 
 ### 🤝 Let's Connect
 
-- LinkedIn: [Connect with me](www.linkedin.com/in/moulish-t-77a9b3397)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/moulish-t-77a9b3397/?isSelfProfile=true)
 
 ---
 
