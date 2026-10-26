@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**moulish077/moulish077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Moulish T 👋
 
-Here are some ideas to get you started:
+### CSE Student | Aspiring AI Builder | Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Engineering student exploring how **AI, software development, and automation** can solve real-world problems.
+
+- 🤖 Exploring AI-powered applications and automation
+- 💻 Learning full-stack development and building practical projects
+- 🧠 Strengthening problem-solving and software development skills
+- 🚀 Interested in entrepreneurship and building useful products
+
+### 🛠️ Technologies I'm Exploring
+
+**Languages:** Java, C++, Python  
+**Web Development:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub, VS Code  
+**Interests:** AI Tools, Workflow Automation, Full-Stack Development
+
+### 🎯 Current Focus
+
+- Building practical projects to improve my development skills
+- Learning how to integrate AI into useful applications
+- Developing a strong foundation for internships and placements
+
+### 🤝 Let's Connect
+
+- LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+
+---
+
+*Learning by building. Improving one project at a time.*
