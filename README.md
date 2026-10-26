@@ -6,39 +6,39 @@ Focused on building intelligent automation systems, scalable backend architectur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moulish-t-77a9b3397/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moulish077) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Devpost](https://img.shields.io/badge/Devpost-003B4C?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moulish077@gmail.com)
 
 ---
 
 ## 💻 About Me
 
-- 🔭 **Currently building:** AI-driven automation workflows and full-stack web applications.
-- 🤖 **Core Interests:** Artificial Intelligence, System Architecture, and Product Engineering.
+- 🎓 **Education:** B.E. in Computer Science and Engineering at Sri Krishna College of Engineering and Technology (SKCET).
+- 🔭 **Currently exploring:** AI-driven automation workflows, backend architecture, and full-stack development.
+- 🏆 **Active in:** Hackathons, competitive programming (TCS CodeVita), and developer challenges (Devpost, MongoDB Skillathon).
 - ⚡ **Philosophy:** Ship early, iterate fast, and focus on practical problem-solving.
-- 🎓 **Education:** B.E. in Computer Science Engineering.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Capabilities
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, Java, C++, JavaScript / TypeScript |
-| **Frontend** | HTML5, CSS3, React.js |
-| **Backend & Databases** | Node.js, REST APIs, SQL / NoSQL Databases |
-| **Developer Tools** | Git, GitHub, VS Code, Linux, Postman |
+| **Languages & Core** | Python, Java, C++, JavaScript |
+| **Web & Frontend** | HTML5, CSS3, Responsive Web Design |
+| **Databases & Cloud** | MongoDB (Atlas/Cloud), Relational Schemas / SQL |
+| **IoT & APIs** | Blynk IoT Platform, REST APIs |
+| **Developer Tools** | Git, GitHub, VS Code, Postman, ERDPlus |
 
 ---
 
 ## 🚀 Featured Projects
 
-> *Here are some of the projects I've built. Pin your top repositories to your profile for live previews!*
-
-| Project | Description | Tech Stack | Link |
+| Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Project Name 1]** | Brief description of the core problem solved and architecture used. | `Python`, `API`, `Database` | [GitHub Repo](https://github.com/moulish077/repo-name) |
-| **[Project Name 2]** | Brief description of the application features and functionality. | `JavaScript`, `React`, `Node.js` | [GitHub Repo](https://github.com/moulish077/repo-name) |
-| **[Project Name 3]** | Brief description of the AI or automation tool built. | `Python`, `AI/Automation` | [GitHub Repo](https://github.com/moulish077/repo-name) |
+| **Smart IoT Dashboard** | Real-time telemetry monitoring and hardware control dashboard connected via cloud APIs. | `Python`, `Blynk IoT`, `MongoDB` | [GitHub Repo](https://github.com/moulish077) |
+| **Full-Stack Web App** | Dynamic web application built with responsive frontend design and robust backend routing. | `JavaScript`, `HTML/CSS`, `Node.js` | [GitHub Repo](https://github.com/moulish077) |
+| **Automation & AI Tool** | Workflow script automating tasks and integrating intelligent data handling. | `Python`, `REST APIs` | [GitHub Repo](https://github.com/moulish077) |
 
 ---
 
